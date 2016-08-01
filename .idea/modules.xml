@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gsprendering.iml" filepath="$PROJECT_DIR$/.idea/modules/gsprendering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gsprendering_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/gsprendering_integrationTest.iml" group="gsprendering" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gsprendering_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gsprendering_main.iml" group="gsprendering" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gsprendering_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gsprendering_test.iml" group="gsprendering" />
+    </modules>
+  </component>
+</project>
